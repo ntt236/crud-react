@@ -1,0 +1,7 @@
+Delete sẽ xóa
+Edit hiển thị data lên trên table
+ 
+edit hiển thị trên modal
+
+
+Sign in thì chỉ được add dữ liệu không được trùng emai.
